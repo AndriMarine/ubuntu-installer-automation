@@ -1,5 +1,3 @@
-Tentu, berikut ini contoh `README.md` yang dapat Anda gunakan untuk menjelaskan bagaimana cara menggunakan skrip instalasi dan apa yang diinstal oleh skrip tersebut:
-
 ```markdown
 # Automatic Software Installation Script
 
@@ -48,4 +46,4 @@ This Bash script automates the installation of various software packages on a Li
 This script is provided under the [MIT License](LICENSE).
 ```
 
-Anda dapat menyimpan konten di atas dalam sebuah berkas dengan nama `README.md` di direktori repository Anda. Sesuaikan URL repository Anda dan tambahkan detail lain sesuai kebutuhan.
+You can save the content above in a file named `README.md` in your repository directory. Adjust your repository URL and add other necessary details as needed.
