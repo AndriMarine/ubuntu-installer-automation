@@ -17,7 +17,7 @@ This Bash script automates the installation of various software packages on a Li
 1. Clone this repository to your Ubuntu 20.04 LTS system or download the `install_software.sh` script.
 
    ```shell
-   git clone https://github.com/your-username/software-installation-script.git
+   git clone https://github.com/AndriMarine/ubuntu-installer-automation.git
    ```
 
 2. Make the script executable:
