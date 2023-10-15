@@ -8,10 +8,9 @@ This Bash script automates the installation of various software packages on a Li
 3. Slack (latest version)
 4. Authy Desktop (latest version)
 5. Java Development Kit 8 (OpenJDK 8)
-6. Golang (version 1.19.3)
-7. JetBrains Toolbox
-8. Docker
-9. Python 3
+6. Goland Jetbrains & Golang (version 1.19.3)
+7. Docker
+8. Python 3
 
 ## Usage
 
